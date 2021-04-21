@@ -60,6 +60,7 @@ height: 100vh;
 
 .tabela {
   padding: 100px;
+  min-width: 2000px;
 }
 
 
